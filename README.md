@@ -2,4 +2,4 @@
 
 Shool project.
 
-Road line detection
+Road lines detection
